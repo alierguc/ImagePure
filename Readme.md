@@ -1,6 +1,6 @@
 # What is this package ? 
 
-This package is perfectyly material shadows every time for the non-designer
+This package is perfectly material shadows every time for the non-designer
 
 # Installation
 
